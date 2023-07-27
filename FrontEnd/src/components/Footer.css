@@ -1,0 +1,16 @@
+.footer{
+    background-color: #333;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    
+}
+.fa-xl{
+    color: black;
+}
+

@@ -1,0 +1,51 @@
+.header{
+    width: 100%;
+    position: relative;
+    margin-top: 2rem;
+}
+
+.header h1{
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.developers{
+    display: flex;
+    justify-content: space-around;
+    
+    margin: 2rem;
+    flex-wrap: wrap;
+    
+}
+.dev{
+    height: 15rem;
+    width: 18rem;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem; 
+    background-color: #FAF9F6;
+    border-radius: 1rem;
+    margin: 1rem;
+     
+}
+h2{
+    text-align: center;
+    margin-top: 1rem;
+}
+i{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+}
+.links{
+    margin-top: 1.5rem;
+    display: flex;
+    align-items: center;
+    
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin-left: 1rem;;
+}

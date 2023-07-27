@@ -1,0 +1,129 @@
+.upload-box{
+    
+    width: 70%;
+    height: 12rem;
+    background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' rx='15' ry='15' stroke='black' stroke-width='4' stroke-dasharray='6%2c 9' stroke-dashoffset='48' stroke-linecap='square'/%3e%3c/svg%3e");
+    border-radius: 15px;
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+label{
+    margin: auto;
+    font-size: 5rem;
+}
+label:hover{
+    color: black
+    
+}
+
+.image-box{
+    margin-top: 1rem;
+    width: 70%;
+    height:8rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem;
+}
+
+
+.image-preview{
+    display: flex;
+    align-items: center;
+    width: 25%;
+    justify-content: space-evenly;
+    
+    
+}
+img{
+    width: 8rem;
+    height:8rem;
+    margin-right: 1rem;
+    border-radius: 1rem;
+    border-style: solid;
+    border-width: thin;
+    
+}
+
+.btn{
+    height: 2rem;
+    width: 5rem;
+    font-size: 1rem;
+    border-radius: 0.5rem
+}
+
+.btn:hover{
+    color:white;
+    background-color: black;
+}
+
+.disease-title{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.disease-image{
+    display: flex;
+    justify-content: center;
+}
+
+.disease-img{
+    border-radius: 1rem;
+    width: 10rem;
+    height: 10rem;
+    margin: 1rem 0;
+
+}
+p{
+    font-size: 1rem;
+}
+
+
+
+.disease-desc{
+    
+    height: auto;
+    margin: 1rem 2rem;
+    padding: 2rem;
+    background-color: #98D19B;
+    border-radius: 1rem;
+}
+
+.disease-prevention{
+
+    height: auto;
+    margin: 1rem 2rem;
+    padding: 2rem;
+    background-color: #98D19B;
+    border-radius: 1rem;
+
+}
+h5{
+    font-size: 1rem;
+}
+
+.paragraph{
+    margin-top: 1rem;
+}
+
+.supplement{
+    
+    height: auto;
+    margin: 1rem 2rem;
+    padding: 2rem;
+    background-color: #98D19B;
+    border-radius: 1rem;
+}
+
+.container{
+    margin-bottom: 3rem;
+}
+
+
+
+

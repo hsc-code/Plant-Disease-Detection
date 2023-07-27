@@ -1,0 +1,65 @@
+
+.container1{
+    
+    padding: 3rem;
+    height: auto;
+    width: 100%;
+
+}
+h1{
+    text-align: center;
+    margin: rem;
+    font-size: 2.5rem;
+}
+
+.body{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.plant img{
+    border-width: 0;
+    border-radius: 0;
+    width: 23rem;
+    height: 23rem;
+   margin: 1rem;
+}
+.content{
+    height: auto;
+    width: 40vw;
+    
+}
+.content p{
+    font-size: 1.4rem;
+}
+
+.c1{
+    border-width: 0.5rem;
+    background-color: lightgrey;
+    width: 12rem;
+    height: 14rem;
+    border-radius: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 1.5rem;
+}
+
+.categories{
+    padding: 3rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.c1 img{
+    border-width: 0;
+    width: 11rem;
+    height: 11rem;
+    margin: 0.5rem 0.5rem 0 0.5rem;
+    border-radius: 0.4rem;
+}
+.c1 h6{
+    font-size: 1rem;
+}

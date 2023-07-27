@@ -1,0 +1,8 @@
+BackEnd/assets/plant_disease_model_1_latest.pt
+/BackEnd/__pycache__/predictor.cpython-310.pyc
+BackEnd/__pycache__/predictor.cpython-311.pyc
+MobileApp/node_modules
+.idea/.gitignore
+.idea/modules.xml
+.idea/Plant-Disease-Detection-App.iml
+.idea/vcs.xml
